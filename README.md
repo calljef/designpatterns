@@ -4,3 +4,7 @@ Estudo de Design Patterns curso do [Luiz Alberto](https://www.youtube.com/channe
 * **Padrões de criação:** Factory Method, Abstract Factory, Singleton, Builder, Prototype.
 * **Padrões estruturais:** Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy;
 * **Padrões comportamentais:** Chain of Responsability, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template, Method, Visitor
+
+<p align="center">
+  <img alt="Design Patterns" src="design patterns.png" width="50%">
+</p>
